@@ -10703,7 +10703,7 @@ dependencies = [
 
 [[package]]
 name = "shibuya-runtime"
-version = "3.30.0"
+version = "3.31.0"
 dependencies = [
  "cumulus-pallet-aura-ext",
  "cumulus-pallet-dmp-queue",
@@ -10723,6 +10723,7 @@ dependencies = [
  "frame-system-rpc-runtime-api",
  "frame-try-runtime",
  "hex-literal",
+ "log",
  "pallet-assets",
  "pallet-aura",
  "pallet-authorship",
