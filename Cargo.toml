@@ -1,5 +1,7 @@
 [workspace]
 members = [
+    "contracts",
+
     "bin/collator",
     "bin/xcm-tools",
     "runtime/local",
